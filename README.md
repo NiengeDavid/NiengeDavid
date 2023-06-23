@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiengeDavid
 - 👀 I’m interested in Programming/Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python learning and mntorship
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript learning and mentorship
 - 📫 How to reach me davidnienge@gmail.com
 
 <!---
